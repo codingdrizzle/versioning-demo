@@ -17,7 +17,7 @@
                 "revert",
                 "style",
                 "test",
-                "BREAKING CHANGE"
+                "BREAKING_CHANGE"
             ]
         ]
     }
