@@ -1,4 +1,8 @@
-# [0.0.0-development](https://github.com/codingdrizzle/versioning-demo/compare/v1.4.0...v0.0.0-development) (2023-06-14)
+# [0.0.0-development](https://github.com/codingdrizzle/versioning-demo/compare/v2.0.0...v0.0.0-development) (2023-06-14)
+
+
+
+# [2.0.0](https://github.com/codingdrizzle/versioning-demo/compare/v1.4.0...v2.0.0) (2023-06-14)
 
 
 
