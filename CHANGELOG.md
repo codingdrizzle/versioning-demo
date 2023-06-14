@@ -1,6 +1,11 @@
 # [0.0.0-development](https://github.com/codingdrizzle/versioning-demo/compare/v1.3.0...v0.0.0-development) (2023-06-12)
 
 
+### Features
+
+* added changlgelog file ([5b77bc1](https://github.com/codingdrizzle/versioning-demo/commit/5b77bc168a074d99b3dd1235dbb415013f7a49e5))
+
+
 
 # [1.3.0](https://github.com/codingdrizzle/versioning-demo/compare/v1.2.2...v1.3.0) (2023-06-12)
 

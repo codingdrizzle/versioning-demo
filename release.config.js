@@ -7,8 +7,8 @@ const config = {
                 noteKeywords: ['BREAKING CHANGE', 'BREAKING CHANGES'],
             },
             releaseRules: [
-                { type: 'BREAKING_CHANGE', release: 'major' },
-                { type: 'BREAKING_CHANGES', release: 'major' },
+                { type: 'breaking_change', release: 'major' },
+                { type: 'breaking_changes', release: 'major' },
             ],
         }],
         '@semantic-release/release-notes-generator',
